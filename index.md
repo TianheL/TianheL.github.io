@@ -34,8 +34,8 @@ Hello
 [Github](http://github.com)
 [Cnki](http://cnki.net)
 [OverLeaf](http://overleaf.com)
-[OI WIKI](https://oi-wiki.org/)
-
+[OI_WIKI](https://oi-wiki.org/)
+[Privacy](https://privacy.aiuys.com/)
 
 ## Tools
 

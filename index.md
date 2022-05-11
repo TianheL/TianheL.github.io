@@ -57,3 +57,6 @@ Hello
 [MIPS编程入门](https://www.cnblogs.com/thoupin/p/4018455.html)
 [C: Assembly Language (MIPS)](https://www.cse.unsw.edu.au/~cs1521/18s2/notes/C/notes.html)
 [QtSpim使用Tips](https://www.cnblogs.com/jiading/p/11584385.html)
+
+## Optimization
+[最优化：建模，算法与理论](https://bicmr.pku.edu.cn/~wenzw/optbook/pages)

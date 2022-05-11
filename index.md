@@ -59,4 +59,4 @@ Hello
 [QtSpim使用Tips](https://www.cnblogs.com/jiading/p/11584385.html)
 
 ## Optimization
-[最优化：建模，算法与理论](https://bicmr.pku.edu.cn/~wenzw/optbook/pages)
+[最优化：建模，算法与理论](https://bicmr.pku.edu.cn/~wenzw/optbook.html)

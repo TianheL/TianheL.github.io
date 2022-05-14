@@ -36,7 +36,7 @@ Hello
 [OverLeaf](http://overleaf.com)
 [OI_WIKI](https://oi-wiki.org/)
 [Privacy](https://privacy.aiuys.com/)
-
+[Fdu-Hotpot](https://fdu-hotpot.top/)
 ## Tools
 
 [进制转换](https://tool.oschina.net/hexconvert/)

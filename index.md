@@ -62,3 +62,6 @@ Hello
 
 ## Optimization
 [最优化：建模，算法与理论](https://bicmr.pku.edu.cn/~wenzw/optbook.html)
+
+## Suggestion
+[ServiceSjtu](https://survivesjtu.gitbook.io/survivesjtumanual/)

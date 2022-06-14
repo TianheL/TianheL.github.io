@@ -16,6 +16,7 @@ Hello
 [在线课表](http://10.64.130.6/)
 [教务处](https://jwc.fudan.edu.cn/)
 [bbs](https://bbs.fudan.edu.cn/v18/top10)
+[stuvpn](https://stuvpn.fudan.edu.cn/portal)
 [WebVpn](https://webvpn.fudan.edu.cn/login)
 [选课系统](https://xk.fudan.edu.cn/xk/login.action)
 [ehall](http://ehall.fudan.edu.cn/ywtb-portal/fudan/index.html#/hall)

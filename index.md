@@ -55,6 +55,9 @@ Hello
 
 [Intervals](https://intervals.icu/)
 [FSL](http://sw.freestreams-live1.com)
+[tiz-cycling](https://tiz-cycling-live.io/live.php)
+[cycling.today](https://cycling.today/)
+
 
 ## Mail
 

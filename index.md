@@ -65,6 +65,12 @@ Hello
 [163](http://mail.163.com)
 [复旦邮箱](https://mail.fudan.edu.cn/)
 
+## Wiki
+[mirror1](https://en.wiki.hancel.org/wiki/Main_Page)
+[mirror2](https://en.jinzhao.wiki/wiki/Main_Page)
+[mirror3](https://kfd.me/?/)
+[mirror4](https://zwiki.liuxfe.com/)
+
 ## Assembly language
 [MIPS编程入门](https://www.cnblogs.com/thoupin/p/4018455.html)
 [C: Assembly Language (MIPS)](https://www.cse.unsw.edu.au/~cs1521/18s2/notes/C/notes.html)

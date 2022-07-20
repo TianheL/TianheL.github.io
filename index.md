@@ -81,6 +81,7 @@ Hello
 
 ## Suggestion
 [ServiceSjtu](https://survivesjtu.gitbook.io/survivesjtumanual/)
+[csdiy](https://csdiy.wiki/)
 
 ## DriveSearch
 [niceso](https://www.niceso.fun/)

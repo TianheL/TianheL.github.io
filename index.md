@@ -71,6 +71,10 @@ Hello
 [mirror3](https://kfd.me/?/)
 [mirror4](https://zwiki.liuxfe.com/)
 
+## C++
+[cpp reference book(English)](https://en.cppreference.com/w/cpp)
+[cpp reference book(中文)](https://zh.cppreference.com/w/cpp)
+
 ## Assembly language
 [MIPS编程入门](https://www.cnblogs.com/thoupin/p/4018455.html)
 [C: Assembly Language (MIPS)](https://www.cse.unsw.edu.au/~cs1521/18s2/notes/C/notes.html)

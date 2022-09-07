@@ -83,6 +83,9 @@ Hello
 ## Optimization
 [最优化：建模，算法与理论](https://bicmr.pku.edu.cn/~wenzw/optbook.html)
 
+## Numerical
+[477_577](http://math.iit.edu/~fass/477_577_handouts.html)
+
 ## Suggestion
 [ServiceSjtu](https://survivesjtu.gitbook.io/survivesjtumanual/)
 [csdiy](https://csdiy.wiki/)

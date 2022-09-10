@@ -77,6 +77,7 @@ Hello
 
 ## PRML
 [PRML-Fall22](https://github.com/dasepli/PRML-Fall22-FDU)
+[nndl-aistudio](https://aistudio.baidu.com/aistudio/education/group/info/27200)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

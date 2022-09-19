@@ -78,6 +78,8 @@ Hello
 ## PRML
 [PRML-Fall22](https://github.com/dasepli/PRML-Fall22-FDU)
 [nndl-aistudio](https://aistudio.baidu.com/aistudio/education/group/info/27200)
+[nndl-practice-in-paddle](https://github.com/nndl/practice-in-paddle)
+[nndl-homepage](https://nndl.github.io/)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

@@ -81,6 +81,7 @@ Hello
 [nndl-aistudio](https://aistudio.baidu.com/aistudio/education/group/info/27200)
 [nndl-practice-in-paddle](https://github.com/nndl/practice-in-paddle)
 [nndl-homepage](https://nndl.github.io/)
+[paddle-api](https://www.paddlepaddle.org.cn/documentation/docs/zh/api/paddle/Overview_cn.html)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

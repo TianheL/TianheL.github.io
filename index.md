@@ -65,6 +65,7 @@ Hello
 [临时邮箱](http://mail.td)
 [163](http://mail.163.com)
 [复旦邮箱](https://mail.fudan.edu.cn/)
+[Gmail](https://mail.google.com/)
 
 ## Wiki
 [mirror1](https://en.wiki.hancel.org/wiki/Main_Page)

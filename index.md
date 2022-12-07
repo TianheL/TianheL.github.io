@@ -66,6 +66,7 @@ Hello
 [163](http://mail.163.com)
 [复旦邮箱](https://mail.fudan.edu.cn/)
 [Gmail](https://mail.google.com/)
+[sms](https://sms-activate.org/cn/)
 
 ## Wiki
 [mirror1](https://en.wiki.hancel.org/wiki/Main_Page)
@@ -83,6 +84,9 @@ Hello
 [nndl-practice-in-paddle](https://github.com/nndl/practice-in-paddle)
 [nndl-homepage](https://nndl.github.io/)
 [paddle-api](https://www.paddlepaddle.org.cn/documentation/docs/zh/api/paddle/Overview_cn.html)
+
+## AI
+[Openai](openai.com)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

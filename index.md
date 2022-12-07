@@ -86,7 +86,7 @@ Hello
 [paddle-api](https://www.paddlepaddle.org.cn/documentation/docs/zh/api/paddle/Overview_cn.html)
 
 ## AI
-[Openai](openai.com)
+[Openai](https://openai.com)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

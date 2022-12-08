@@ -87,6 +87,7 @@ Hello
 
 ## AI
 [OpenAi](https://openai.com)
+[ChapGPT](https://chat.openai.com/chat)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

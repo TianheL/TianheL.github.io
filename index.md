@@ -21,7 +21,6 @@ Hello
 [WebVpn](https://webvpn.fudan.edu.cn/login)
 [选课系统](https://xk.fudan.edu.cn/xk/login.action)
 [ehall](http://ehall.fudan.edu.cn/ywtb-portal/fudan/index.html#/hall)
-[平安复旦](https://zlapp.fudan.edu.cn/site/ncov/fudanDaily)
 
 
 ## Book
@@ -92,7 +91,6 @@ Hello
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 [xv6-Chinese-doc](https://www.bookstack.cn/read/xv6-chinese/README.md)
-[哈工大lab](http://hitsz-lab.gitee.io/os-labs-2021/)
 [6.S081](https://pdos.csail.mit.edu/6.S081/2022/)
 
 ## Assembly language

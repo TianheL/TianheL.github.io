@@ -106,6 +106,9 @@ Hello
 [C: Assembly Language (MIPS)](https://www.cse.unsw.edu.au/~cs1521/18s2/notes/C/notes.html)
 [QtSpim使用Tips](https://www.cnblogs.com/jiading/p/11584385.html)
 
+## Video
+[年代导航](https://www.niandai.org)
+
 ## Optimization
 [最优化：建模，算法与理论](https://bicmr.pku.edu.cn/~wenzw/optbook.html)
 

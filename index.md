@@ -75,10 +75,7 @@ Hello
 [sms](https://sms-activate.org/cn/)
 
 ## Wiki
-[mirror1](https://en.wiki.hancel.org/wiki/Main_Page)
-[mirror2](https://en.jinzhao.wiki/wiki/Main_Page)
-[mirror3](https://kfd.me/?/)
-[mirror4](https://zwiki.liuxfe.com/)
+[wiki](https://www.wikipedia.org/)
 
 ## C++
 [cpp reference book(English)](https://en.cppreference.com/w/cpp)

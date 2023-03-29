@@ -95,6 +95,7 @@ Hello
 [OpenAi](https://openai.com)
 [ChapGPT](https://chat.openai.com/chat)
 [Chat](https://www.ahhhhfs.com/39418/)
+[Playground](https://nat.dev/)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

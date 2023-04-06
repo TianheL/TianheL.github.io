@@ -37,6 +37,7 @@ Hello
 [OI_WIKI](https://oi-wiki.org/)
 [Privacy](https://privacy.aiuys.com/)
 [Fdu-Hotpot](https://fdu-hotpot.top/)
+[paper_assis](https://laorange.gitee.io/paper-assistant/)
 
 ## Math Tools
 

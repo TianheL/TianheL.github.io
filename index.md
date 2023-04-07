@@ -98,6 +98,7 @@ Hello
 [Chat](https://www.ahhhhfs.com/39418/)
 [Playground](https://nat.dev/)
 [boe](http://ai.bo-e.com/)
+[mosss](https://fudan.moss.fastnlp.top/#/)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

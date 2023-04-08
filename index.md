@@ -99,6 +99,7 @@ Hello
 [Playground](https://nat.dev/)
 [boe](http://ai.bo-e.com/)
 [moss](https://fudan.moss.fastnlp.top/#/)
+[Chat](https://ziyuantan.com/t/topic/516)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

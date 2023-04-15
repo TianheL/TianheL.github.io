@@ -101,6 +101,7 @@ Hello
 [moss](https://fudan.moss.fastnlp.top/#/)
 [Chat](https://ziyuantan.com/t/topic/516)
 [aichatos](http://choiajsd.aichatos.com/)
+[civitai](https://civitai.com/)
 
 ## OS
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)

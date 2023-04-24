@@ -1,7 +1,8 @@
-a:visited {
-  color: blue;
-}
 #my-link {
   text-decoration: none;
   color: black;
 }
+a:visited {
+  color: blue;
+}
+

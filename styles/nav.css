@@ -2,6 +2,10 @@
   text-decoration: none;
   color: black;
 }
+#blue-link {
+  text-decoration: none;
+  color: #0374b5;
+}
 a:visited {
   color: blue;
 }

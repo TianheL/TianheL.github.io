@@ -1,6 +1,5 @@
 # Welcome to My Pages
 
-Hello
+Hello!
 
-## Nav
-[Nav](https://tianhel.github.io/nav.html)
+# Under construction! 

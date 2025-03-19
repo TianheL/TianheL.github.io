@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Hi! I am Tianhe Lin, a first-year master's student at Fudan University in School of Data Science, Shanghai, China. 
+I'm a member of [Knowledge Works Lab](http://kw.fudan.edu.cn/) led by Prof. [Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ&hl=en&oi=ao).
 I received my bachelor's degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/) in June 2024.
 
 I have been fortunate to collaborate with researchers from both academia and industry.

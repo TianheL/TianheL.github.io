@@ -10,10 +10,12 @@ redirect_from:
 Hi! I am Tianhe Lin, a first-year master's student at Fudan University in School of Data Science, Shanghai, China. 
 I received my bachelor's degree in Artificial Intelligence from Fudan University in June 2024.
 
-I have been fortunate to collaborate with exceptional researchers from academia and industry.
-Previously, I interned at Meituan, where I focused on research on ''LLM-as-a-judge'', and developed several generative judge models for open-ended, challenging and automatic evaluation of post-trained LLMs on how they align to human preference.
+I have been fortunate to collaborate with exceptional researchers both from academia and industry.
+Previously, I interned at Meituan, where I focused on research on LLM-as-a-judge ‍⚖️, and developed several generative judge models for open-ended, challenging and [automatic evaluation](https://agi-eval.cn/evaluation/LLM-CN-Subj-1-Rnd?id=48) of post-trained LLMs on how they align to human preference.
 
-**Research Interests:**
+**Research Interests:** Specifically, I am interested in:
+
+- **Reasoning Capabilities:** Interpreting and enhancing the reasoning abilities of LLMs.
 
 Feel free to contact me if you are interested in my work or want to discuss a potential collaboration!
 

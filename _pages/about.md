@@ -21,6 +21,6 @@ Feel free to contact me if you are interested in my work or want to discuss a po
 
 🥳 News
 ======
-**Mar,2025**&emsp;&emsp; :bulb: New paper on (implicit) reasoning mechanism of language models!
+**Mar, 2025**&emsp;&emsp; :bulb: New paper on (implicit) reasoning mechanism of language models!
 
-**Mar,2025**&emsp;&emsp; :tada: Personal Homepage is now available!
+**Mar, 2025**&emsp;&emsp; :tada: Personal Homepage is now available!

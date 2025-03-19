@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 Hi! I am Tianhe Lin, a first-year master's student at Fudan University in School of Data Science, Shanghai, China. 
-I received my bachelor's degree in Artificial Intelligence from Fudan University in June 2024.
+I received my bachelor's degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/) in June 2024.
 
-I have been fortunate to collaborate with exceptional researchers both from academia and industry.
+I have been fortunate to collaborate with researchers from both academia and industry.
 Previously, I interned at Meituan, where I focused on research on LLM-as-a-judge ‍⚖️, and developed several generative judge models for open-ended, challenging and [automatic evaluation](https://agi-eval.cn/evaluation/LLM-CN-Subj-1-Rnd?id=48) of post-trained LLMs on how they align to human preference.
 
 **Research Interests:**  I have a broad interest in Natural Language Processing. Specifically, I am interested in:
@@ -21,4 +21,6 @@ Feel free to contact me if you are interested in my work or want to discuss a po
 
 🥳 News
 ======
-- 2025.Mar Personal Homepage is available!
+**Mar,2025**&emsp;&emsp; :bulb: New paper on (implicit) reasoning mechanism of language models!
+
+**Mar,2025**&emsp;&emsp; :tada: Personal Homepage is now available!

@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi! I am Tianhe Lin, a first-year master's student at Fudan University in School of Data Science, Shanghai, China. 
+I received my bachelor's degree in Artificial Intelligence from Fudan University in June 2024.
+
+I have been fortunate to collaborate with exceptional researchers from academia and industry.
+Previously, I interned at Meituan, where I focused on research on ''LLM-as-a-judge'', and developed several generative judge models for open-ended, challenging and automatic evaluation of post-trained LLMs on how they align to human preference.
+
+**Research Interests:**
+
+Feel free to contact me if you are interested in my work or want to discuss a potential collaboration!
 
 A data-driven personal website
 ======

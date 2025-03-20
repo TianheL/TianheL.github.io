@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tianhe Lin, a first-year master's student at Fudan University in School of Data Science, Shanghai, China. 
-I'm a member of [Knowledge Works Lab](http://kw.fudan.edu.cn/) led by Prof. [Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ&hl=en&oi=ao).
+Hi! I am Tianhe Lin, a first-year master's student at [School of Data Science, Fudan University](https://sds.fudan.edu.cn/). 
+I'm a member of [Knowledge Works Lab](http://kw.fudan.edu.cn/) led by Prof. [Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ&hl=en&oi=ao) and Prof. [Deqing Yang](https://sds.fudan.edu.cn/c1/56/c22442a508246/page.htm).
 I received my bachelor's degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/) in June 2024.
 
 I have been fortunate to collaborate with researchers from both academia and industry.
@@ -22,6 +22,6 @@ Feel free to contact me if you are interested in my work or want to discuss a po
 
 🥳 News
 ======
-**Mar, 2025**&emsp;&emsp; :bulb: [New paper](https://arxiv.org/abs/2503.07604) on (implicit) reasoning mechanism of language models!
+**Mar, 2025**&emsp;&emsp; :bulb: [New paper](https://arxiv.org/abs/2503.07604) on (implicit) reasoning mechanism of (large) language models!
 
 **Mar, 2025**&emsp;&emsp; :tada: Personal Homepage is now available!

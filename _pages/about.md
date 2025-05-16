@@ -24,6 +24,8 @@ Feel free to contact me if you are interested in my work or want to discuss a po
 
 🥳 News
 ======
+**May, 2025**&emsp;&emsp; :tada: One Paper is accepted to ACL 2025! See you in Vienna!
+
 **Mar, 2025**&emsp;&emsp; :bulb: [New paper](https://arxiv.org/abs/2503.07604) on (implicit) reasoning mechanism of (large) language models!
 
 **Mar, 2025**&emsp;&emsp; :tada: Personal Homepage is now available!

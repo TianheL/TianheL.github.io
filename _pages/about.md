@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tianhe Lin, a first-year master's student at [School of Data Science, Fudan University](https://sds.fudan.edu.cn/). 
+Hi! I am Tianhe Lin, a second-year master's student at [School of Data Science, Fudan University](https://sds.fudan.edu.cn/). 
 I'm a member of [Knowledge Works Lab](http://kw.fudan.edu.cn/) led by Prof. [Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ&hl=en&oi=ao) and Prof. [Deqing Yang](https://sds.fudan.edu.cn/c1/56/c22442a508246/page.htm).
 I received my bachelor's degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/) in June 2024.
 
 I am fortunate to collaborate with researchers from both academia and industry.
-Previously, I interned at [Meituan LongCat LLM Team](https://github.com/meituan-longcat), where I focused on research on LLM-as-a-judge ‍⚖️, and developed several generative judge models 🤖 for open-ended, challenging and [automatic evaluation](https://agi-eval.cn/evaluation/LLM-CN-Subj-1-Rnd?id=48) of post-trained LLMs on how they align to human preference.
+Previously, I interned at <img src="https://avatars.githubusercontent.com/u/229435942?s=200&v=4" width="16" height="16" style="vertical-align: middle;"> [Meituan LongCat LLM Team](https://github.com/meituan-longcat), where I focused on research on LLM-as-a-judge ‍⚖️, and developed several generative judge models 🤖 for open-ended, challenging and [automatic evaluation](https://agi-eval.cn/evaluation/LLM-CN-Subj-1-Rnd?id=48) of post-trained LLMs on how they align to human preference.
 
 **Research Interests:**  I have a broad interest in Natural Language Processing. Specifically, I am interested in (but are not limited to):
 - **Reasoning Capabilities:** Interpreting and enhancing the reasoning abilities of LLMs.
